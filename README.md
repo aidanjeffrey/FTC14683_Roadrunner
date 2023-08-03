@@ -6,7 +6,7 @@ An example FTC project using [Road Runner](https://github.com/acmerobotics/road-
 
 For more detailed instructions on getting Road Runner setup in your own project, see the [Road Runner README](https://github.com/acmerobotics/road-runner#core).
 
-1. Download or clone this repo with `git clone https://github.com/acmerobotics/road-runner-quickstart`.
+1. Download or clone this repo with `git clone https://github.com/aidanjeffrey/FTC14683_Roadrunner/tree/master`.
 
 1. Open the project in Android Studio and build `TeamCode` like any other `ftc_app` project.
 
